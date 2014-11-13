@@ -977,4 +977,9 @@
     <!-- Swipe to delete -->
     <string name="swipe_deletes_conversation_text">Swipe deletes conversation</string>
 
+    <!-- QM - Quick reply -->
+    <string name="qm_quick_reply">Quick reply</string>
+    <string name="send">Send</string>
+    <string name="compose_message_hint_text">Enter message</string>
+
 </resources>
