@@ -60,8 +60,6 @@ import com.android.messaging.util.Typefaces;
 import com.android.messaging.util.UiUtils;
 import com.android.messaging.util.UriUtil;
 
-import java.util.List;
-
 /**
  * The view for a single entry in a conversation list.
  */
