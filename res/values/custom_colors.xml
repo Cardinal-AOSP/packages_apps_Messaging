@@ -17,6 +17,6 @@
 <resources>
 
     <!-- Adaptive icon background layer color -->
-    <color name="ic_launcher_background">#689F38</color>
+    <color name="ic_launcher_background">@color/primary_color</color>
 
 </resources>
